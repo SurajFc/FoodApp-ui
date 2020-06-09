@@ -4,7 +4,11 @@ A food app ui based on flutter
 
 ## Screens
 
-![app](1.jpg) ![app](2.jpg) ![app](3.jpg)
+<p align="center">
+  <img src="screns/1.png" width="256" height="455">
+  <img src="screens/2.png" width="256" height="455">
+  <img src="screens/3.png" width="256" height="455">
+</p>
 
 ## Getting Started
 
