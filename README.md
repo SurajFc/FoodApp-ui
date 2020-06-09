@@ -5,9 +5,9 @@ A food app ui based on flutter
 ## Screens
 
 <p align="center">
-  <img src="screens/1.png" width="256" height="400">
-  <img src="screens/2.png" width="256" height="400">
-  <img src="screens/3.png" width="256" height="400">
+  <img src="screens/1.jpg" width="256" height="400">
+  <img src="screens/2.jpg" width="256" height="400">
+  <img src="screens/3.jpg" width="256" height="400">
 </p>
 
 ## Getting Started
