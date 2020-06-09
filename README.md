@@ -4,7 +4,7 @@ A food app ui based on flutter
 
 ## Screens
 
-![app](1.jpg) ![app](2.jpg) ![app](3.jpg)
+![app](1.jpg) ![app](3.jpg)
 
 ## Getting Started
 
