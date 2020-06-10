@@ -11,7 +11,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Flutter Demo',
+      title: 'Food App',
       debugShowCheckedModeBanner: false,
       theme: ThemeData.light().copyWith(primaryColor: Colors.orange[800]),
       routes: {
